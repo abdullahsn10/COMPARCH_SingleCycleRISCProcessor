@@ -1,0 +1,13 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+singcpu=0
+[COMPILESTATUS|.\src\cpu.v]
+FileTimeLow=2097208022
+FileTimeHigh=31046162
+Status=Compiled
+[General]
+CurrentVersion=103
+[CACHEDOC|Aldec.Project.Generic.7|.\singcpu\singcpu.adf|]
+Path=/ext_tb
+[CACHEDOC|Aldec.Project.Generic.7|.\singcpu.adf|]
+Path=/DataPath

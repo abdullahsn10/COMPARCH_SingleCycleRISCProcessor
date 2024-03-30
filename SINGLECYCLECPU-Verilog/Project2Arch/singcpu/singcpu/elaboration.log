@@ -1,0 +1,30 @@
+Active-HDL 13.0.376.8320 2023-07-19 10:56:20
+
+Elaboration top modules:
+Verilog Module                DataPath
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+DataPath                | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+PCReg                   | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+InstructionMemory       | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+InstructionDecodeUnit   | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+ControlUnit             | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+stack_memory            | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+Extender                | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+mux2to1_5bit            | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+RegisterFile            | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+mux2to1                 | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+ALU                     | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+NextPCControlUnit       | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+PCMux                   | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+DataMemory              | singcpu |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+singcpu                 | None
+-------------------------------------------------------------------------------------------
